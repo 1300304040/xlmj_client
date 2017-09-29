@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e41f479f-13a0-41b8-933f-961b6b2306ef",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "btn_wexin": {
+      "ver": "1.0.3",
+      "uuid": "3dabb2ac-b0d3-40f7-8f18-2459fc598959",
+      "rawTextureUuid": "e41f479f-13a0-41b8-933f-961b6b2306ef",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -1,
+      "trimX": 0,
+      "trimY": 3,
+      "width": 397,
+      "height": 134,
+      "rawWidth": 398,
+      "rawHeight": 138,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

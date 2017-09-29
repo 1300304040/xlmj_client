@@ -1,0 +1,36 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "slideDown",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.5,
+  "sample": 60,
+  "speed": 2,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.5,
+          "value": 1
+        }
+      ]
+    },
+    "paths": {
+      "btn_help": {
+        "props": {}
+      },
+      "btn_help/bt_bg": {
+        "props": {}
+      },
+      "btn_help/New Label": {
+        "props": {}
+      }
+    }
+  },
+  "events": []
+}
